@@ -1,5 +1,5 @@
 import './style.css';
-import './topics/08-classes'
+import './topics/09-generics'
 
 const app = document.querySelector<HTMLDivElement>('#app')!;
 
